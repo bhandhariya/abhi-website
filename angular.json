@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "swyfrfiling"
+    }
+  },
+  "defaultProject": "swyfrfiling",
+  "cli": {
+    "analytics": "658b8053-c0a7-4c1e-ba02-87f1473cae90"
+  }
 }
